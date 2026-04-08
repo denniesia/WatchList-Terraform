@@ -1,0 +1,93 @@
+# Build results
+bin/
+obj/
+out/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# IIS Express
+iisexpress/
+*.vspscc
+*.vssscc
+
+# Publish output
+publish/
+*.publishproj
+
+# Azure
+*.azurePubxml
+*.pubxml
+*.pubxml.user
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# DotCover
+*.dotCover
+
+# Test results
+TestResults/
+*.trx
+
+# Coverage
+coverage/
+*.coverage
+*.coveragexml
+
+# Entity Framework
+*.edmx.diagram
+
+# Secrets
+secrets.json
+appsettings.Development.json
+
+# Logs & temp
+*.tmp
+*.temp
+
+# Generated files
+GeneratedFiles/
+
+# SQL Server
+*.mdf
+*.ldf
+
+# Backup & package files
+*.bak
+*.zip
+*.tar
+*.gz
